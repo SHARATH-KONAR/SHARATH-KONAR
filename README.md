@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td valign="top">
-      <p>- 🔭 I’m currently working on <strong>Project_Malware</strong></p>
+      <p>- 🔭 I’m currently Doing   <strong>SOC 101 </strong></p>
       <p>- 🌱 I’m currently learning <strong>PGD in Digital and Cyber Forensics</strong></p>
       <p>- 👯 I’m looking to collaborate on <strong>Projects related to Cybersecurity</strong></p>
       <p>- 📫 How to reach me: <strong>shankarguru2610@gmail.com</strong></p>
